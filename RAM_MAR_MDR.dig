@@ -757,12 +757,12 @@
           <int>60</int>
         </entry>
         <entry>
-          <string>Label</string>
-          <string>MDR</string>
-        </entry>
-        <entry>
           <string>RectHeight</string>
           <int>46</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>MDR</string>
         </entry>
         <entry>
           <string>RectWidth</string>
@@ -791,7 +791,7 @@
           <int>90</int>
         </entry>
       </elementAttributes>
-      <pos x="-1440" y="80"/>
+      <pos x="-1320" y="80"/>
     </visualElement>
   </visualElements>
   <wires>
