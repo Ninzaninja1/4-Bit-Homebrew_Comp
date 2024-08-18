@@ -126,7 +126,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>EN</string>
+          <string>EO</string>
         </entry>
       </elementAttributes>
       <pos x="60" y="-80"/>
@@ -156,7 +156,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>LOAD&apos;</string>
+          <string>¬LOAD</string>
         </entry>
       </elementAttributes>
       <pos x="60" y="-200"/>
