@@ -36,4 +36,4 @@ Here are the preliminary designs made from logic gates, which give a better unde
 
 - The complete RAM Module (RAM, MDR & Mar) which uses the 74LS189 Chip
 
-![Github Image](src/Ram_Module_Logic_Gates.png)
+![Github Image](src/RAM_Module_Logic_Gates.png)
