@@ -28,7 +28,7 @@ Here are the preliminary designs made from logic gates, which give a better unde
 
 - ALU with 4 Full adders with the ability of outputing the Zero, Negative and Overflow flags 
 
-![Github Image](scr/ALU_Logic_Gates.png)
+![Github Image](src/ALU_Logic_Gates.png)
 
 - A Binary Counter. This can also load a specific number if needed
 
@@ -36,4 +36,4 @@ Here are the preliminary designs made from logic gates, which give a better unde
 
 - The complete RAM Module (RAM, MDR & Mar) which uses the 74LS189 Chip
 
-![Github Image](scr/Ram_Module_Logic_Gates.png)
+![Github Image](src/Ram_Module_Logic_Gates.png)
