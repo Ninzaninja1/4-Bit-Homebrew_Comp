@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <circuit>
   <version>2</version>
-  <attributes/>
+  <attributes>
+    <entry>
+      <string>romContent</string>
+      <romList>
+        <roms/>
+      </romList>
+    </entry>
+  </attributes>
   <visualElements>
     <visualElement>
       <elementName>74163.dig</elementName>
@@ -297,7 +304,12 @@
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>A</string>
+        </entry>
+      </elementAttributes>
       <pos x="-1520" y="-560"/>
     </visualElement>
     <visualElement>
@@ -1385,6 +1397,10 @@
           <string>rotation</string>
           <rotation rotation="1"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>B</string>
+        </entry>
       </elementAttributes>
       <pos x="-3680" y="3680"/>
     </visualElement>
@@ -1394,6 +1410,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>C</string>
         </entry>
       </elementAttributes>
       <pos x="-3640" y="3680"/>
@@ -1405,6 +1425,10 @@
           <string>rotation</string>
           <rotation rotation="1"/>
         </entry>
+        <entry>
+          <string>Label</string>
+          <string>D</string>
+        </entry>
       </elementAttributes>
       <pos x="-3600" y="3680"/>
     </visualElement>
@@ -1414,6 +1438,10 @@
         <entry>
           <string>rotation</string>
           <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>E</string>
         </entry>
       </elementAttributes>
       <pos x="-3560" y="3680"/>
@@ -5498,7 +5526,7 @@
     </wire>
     <wire>
       <p1 x="-1300" y="2740"/>
-      <p2 x="-1300" y="4360"/>
+      <p2 x="-1300" y="4320"/>
     </wire>
     <wire>
       <p1 x="-1300" y="2600"/>

@@ -23,4 +23,17 @@ Here are some screenshots of the progress:
 
 ![Github Image](src/Full_Assembly_IC.png) 
 
+## Logic gates
+Here are the preliminary designs made from logic gates, which give a better understanding of what is actually happening behing all the ICs:
 
+- ALU with 4 Full adders with the ability of outputing the Zero, Negative and Overflow flags 
+
+![Github Image](scr/ALU_Logic_Gates.png)
+
+- A Binary Counter. This can also load a specific number if needed
+
+![Github Image](src/Binary_Counter_w_Load.png)
+
+- The complete RAM Module (RAM, MDR & Mar) which uses the 74LS189 Chip
+
+![Github Image](scr/Ram_Module_Logic_Gates.png)
