@@ -3,6 +3,8 @@ A Homebrew computer built mainly using only the fundamental logic gates. This is
 
 I am using the application Digital by hneemann ([link](https://github.com/hneemann/Digital)) to simulate the computer.
 
+For more pictures please go to src/ICs or src/Logic_Gates
+
 ## Progress
 Here are some screenshots of the progress:
 
